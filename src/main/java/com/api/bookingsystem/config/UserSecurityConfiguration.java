@@ -1,9 +1,7 @@
 package com.api.bookingsystem.config;
 
 import javax.sql.DataSource;
-import javax.xml.crypto.Data;
 
-import com.api.bookingsystem.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
