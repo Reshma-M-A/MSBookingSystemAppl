@@ -1,4 +1,4 @@
-package com.api.bookingsystem.BookingSystem;
+package com.api.searchinventory.BookingSystem;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class BookingSystemApplicationTests {
+public class SearchApplicationTests {
 
 	@Test
 	public void contextLoads() {
